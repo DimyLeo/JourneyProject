@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Journey.Infrastructure
-build_property.ProjectDir = C:\Users\leona\Documents\Rocketseat\Journey\src\Journey.Infrastructure\
+build_property.ProjectDir = C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\Validators.Test.csproj": {}
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\Validators.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
         "projectName": "Journey.Application",
-        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
-                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
+              "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
+                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
               },
-              "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
-                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
+              "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
+                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
               },
-              "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
+              "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
               }
             }
           }
@@ -77,21 +81,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
         "projectName": "Journey.Communication",
-        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Communication\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Communication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,21 +146,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
         "projectName": "Journey.Exception",
-        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
+        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Exception\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Exception\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -199,21 +211,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
         "projectName": "Journey.Infrastructure",
-        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -270,21 +286,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\Validators.Test.csproj": {
+    "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\Validators.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
         "projectName": "Validators.Test",
-        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
+        "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -299,8 +319,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {
-                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj"
+              "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {
+                "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj"
               }
             }
           }
@@ -353,7 +373,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

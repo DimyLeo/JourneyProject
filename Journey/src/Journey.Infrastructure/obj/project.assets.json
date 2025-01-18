@@ -1187,19 +1187,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leona\\.nuget\\packages\\": {}
+    "C:\\Users\\leona\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
       "projectName": "Journey.Infrastructure",
-      "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1256,7 +1261,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

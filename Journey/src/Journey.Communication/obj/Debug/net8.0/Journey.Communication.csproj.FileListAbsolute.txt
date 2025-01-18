@@ -20,3 +20,15 @@ C:\Users\leona\Documents\Rocketseat\Journey\src\Journey.Communication\obj\Debug\
 C:\Users\leona\Documents\Rocketseat\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
 C:\Users\leona\Documents\Rocketseat\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
 C:\Users\leona\Documents\Rocketseat\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Users\leona\Documents\Rocketseat\JourneyProject\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll

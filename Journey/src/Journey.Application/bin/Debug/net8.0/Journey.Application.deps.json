@@ -349,12 +349,18 @@
       },
       "Journey.Communication/1.0.0": {
         "runtime": {
-          "Journey.Communication.dll": {}
+          "Journey.Communication.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Journey.Exception/1.0.0": {
         "runtime": {
-          "Journey.Exception.dll": {}
+          "Journey.Exception.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Journey.Infrastructure/1.0.0": {
@@ -363,7 +369,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.7"
         },
         "runtime": {
-          "Journey.Infrastructure.dll": {}
+          "Journey.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
