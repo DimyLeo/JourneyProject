@@ -10,6 +10,10 @@ public class JourneyDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite("Data Source=\"C:\\Users\\leona\\Documents\\Rocketseat\\JourneyDatabase.db\"");
+        string? rdbFilePath = Environment.GetEnvironmentVariable("RDB_FILE_PATH");
+        if (rdbFilePath is null)
+		    throw new ArgumentNullException(rdbFilePath, "RDB_FILE_PATH environment variable not found");
+
+		optionsBuilder.UseSqlite(rdbFilePath);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q37CUV8z7ek=",
+  "dgSpecHash": "ITKC5nWiscM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
+  "projectFilePath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

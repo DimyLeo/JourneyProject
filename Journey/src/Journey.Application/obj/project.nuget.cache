@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iW3+R80/g9w=",
+  "dgSpecHash": "GRdAAlHxcdQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\Documents\\Rocketseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+  "projectFilePath": "C:\\Users\\leona\\Documents\\Rocketseat\\JourneyProject\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
